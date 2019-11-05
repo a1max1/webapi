@@ -1,1 +1,1 @@
-read me file
+dotnetcore webapi for testing build and deployment through docker
